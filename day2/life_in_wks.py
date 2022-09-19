@@ -10,4 +10,4 @@ weeks_left = years_left * 52
 
 days_left = years_left * 365
 
-print(f"YOu have the {years_left} years left to live. That means you have {weeks_left} weeks or {days_left} days left.\n Our assumptions are that you have a lifespan of 90 years. Dark!!")
+print(f"YOu have the {years_left} years left to live. That means you have {weeks_left} weeks or {days_left} days left.\nOur assumptions are that you have a lifespan of 90 years. Dark!!")
